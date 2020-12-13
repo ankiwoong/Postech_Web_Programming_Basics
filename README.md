@@ -25,3 +25,14 @@
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-5.png?raw=true">
 
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-6.png?raw=true">
+
+### 실습 - Result
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-1.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-2.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-3.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-4.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-5.png?raw=true">
