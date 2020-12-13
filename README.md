@@ -36,3 +36,18 @@
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-4.png?raw=true">
 
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-8-5.png?raw=true">
+
+---
+
+## 자바스크립트
+
+### 자바스크립트 소개
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-9-1.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-9-2.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-9-3.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-10-1.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-10-2.png?raw=true">
