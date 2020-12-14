@@ -1,4 +1,5 @@
 var randomNumber = Math.floor(Math.random()) + 1;
+console.log(randomNumber);
 var guesses = document.querySelector('.guesses');
 var lastResult = document.querySelector('.lastResult');
 var lowOrHi = document.querySelector('.lowOrHi');
