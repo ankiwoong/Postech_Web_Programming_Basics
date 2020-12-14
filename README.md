@@ -16,14 +16,13 @@
 ### HTML - Result
 <details>
     <summary>펼쳐 보기</summary>
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-2.png?raw=true">
 
-    <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-2.png?raw=true">
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3.png?raw=true">
 
-    <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3.png?raw=true">
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3-1.png?raw=true">
 
-    <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3-1.png?raw=true">
-
-    <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3-2.png?raw=true">
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-3-2.png?raw=true">
 </details>
 
 ### CSS - Result
