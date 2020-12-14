@@ -51,3 +51,10 @@
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-10-1.png?raw=true">
 
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-10-2.png?raw=true">
+
+### 자바스크립트 기초
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-12-2.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-12-3.png?raw=true">
+
+<img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-12-1.png?raw=true">
