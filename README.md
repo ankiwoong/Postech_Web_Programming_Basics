@@ -4,7 +4,12 @@
 
 ## 웹프로그래밍 시작하기
 ### 프로젝트 구성 - Result
+<a onclick="this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href="javascript:void(0)">
+펼쳐 보기
+</a>
+<div style="DISPLAY: none">
 <img src="https://github.com/ankiwoong/Postech_Web_Programming_Basics/blob/main/screenshot/screenshot-1.png?raw=true">
+</div>
 
 ---
 
